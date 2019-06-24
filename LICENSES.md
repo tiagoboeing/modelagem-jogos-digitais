@@ -1,5 +1,7 @@
 # LICENSES
 
+> The other graphics does not described here were produced by team.
+
 ## Graphic content authors
 
 The resources are allowed free for commercial use with attribution required. (Standard Freepik License)
