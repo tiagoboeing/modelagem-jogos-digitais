@@ -25,7 +25,12 @@ The resources are allowed free for commercial use with attribution required. (St
 - Digital Memories - Unicorn Heads
 - Anthem - The Grand Affair
 
+#### Effects
+[OKAY! - Scrampunk](https://freesound.org/people/Scrampunk/sounds/345299/#)
+
+
 ### Sources
+- [Freesound](https://freesound.org/)
 - [Youtube Audio Library](https://www.youtube.com/audiolibrary/music)
 
 ### Fonts used in graphics Font files used by authors for design the graphics contents. 
