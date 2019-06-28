@@ -26,7 +26,7 @@ The resources are allowed free for commercial use with attribution required. (St
 - Anthem - The Grand Affair
 
 #### Effects
-[OKAY! - Scrampunk](https://freesound.org/people/Scrampunk/sounds/345299/#)
+- [OKAY! - Scrampunk](https://freesound.org/people/Scrampunk/sounds/345299/#)
 
 
 ### Sources
