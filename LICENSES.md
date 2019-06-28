@@ -23,6 +23,7 @@ The resources are allowed free for commercial use with attribution required. (St
 
 ## Music and effects
 - Digital Memories - Unicorn Heads
+- Anthem - The Grand Affair
 
 ### Sources
 - [Youtube Audio Library](https://www.youtube.com/audiolibrary/music)
