@@ -26,7 +26,8 @@ The resources are allowed free for commercial use with attribution required. (St
 - Anthem - The Grand Affair
 
 #### Effects
-- [OKAY! - Scrampunk](https://freesound.org/people/Scrampunk/sounds/345299/#)
+- [OKAY! - Scrampunk](https://freesound.org/people/Scrampunk/sounds/345299/#): Hit worker
+- [Short loops 06 03 2015 - B_Lamerichs](https://freesound.org/people/B_Lamerichs/sounds/266095/): GameOver scene
 
 
 ### Sources
