@@ -10,4 +10,7 @@
 - [Histórico de versões](https://github.com/tiagoboeing/modelagem-jogos-digitais/blob/master/CHANGELOG.md)
 - [Baixar outras versões](https://github.com/tiagoboeing/modelagem-jogos-digitais/releases)
 
+------
+
+
 
