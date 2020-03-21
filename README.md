@@ -7,7 +7,7 @@
 
 -----
 
-- [Código fonte](https://drive.google.com/drive/folders/1-6qPeZwUMXaqYeEsnkTBSV5I4K-tU1JV?usp=sharing)
+- [Código-fonte](https://drive.google.com/drive/folders/1-6qPeZwUMXaqYeEsnkTBSV5I4K-tU1JV?usp=sharing)
 - [Histórico de versões](https://github.com/tiagoboeing/modelagem-jogos-digitais/blob/master/CHANGELOG.md)
 - [Baixar outras versões](https://github.com/tiagoboeing/modelagem-jogos-digitais/releases)
 
